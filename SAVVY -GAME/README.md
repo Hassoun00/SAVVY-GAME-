@@ -1,4 +1,4 @@
-Welcome to this dumb game project.
+SAVVY-GAME-
 
 Used for testing Jenkins Unity Build Pipelines
 
